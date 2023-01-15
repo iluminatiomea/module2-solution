@@ -1,0 +1,142 @@
+body {
+
+background-color: lightgrey;
+background-image: url("chef.jpg");
+}
+
+ 
+ p {
+font-family: 'Libre Baskerville', serif;
+	margin:auto auto auto 10px;
+}
+
+
+
+.menu1 {
+border: solid 4px;	
+background-color: gray;
+color: black;
+width: 330px;
+height:150px;
+padding-top: 20px;
+position: relative;
+margin: 40px 30px 20px 50px;
+
+
+
+}
+
+.titull1 {
+border: solid 3px;
+font-size: 110%;
+color: black;
+width: 70px;
+height:30px;
+position: absolute;
+background-color: palevioletred;
+bottom:115px;
+left:253px;
+
+}
+
+.menu2{
+border: solid 4px;	
+background-color: gray;
+color: black;
+width: 330px;
+height:150px;
+padding-top: 20px;
+position: relative;
+margin: 40px 30px 20px 50px;
+
+
+
+	}
+
+
+.titull2 {
+	font-size: 130%;
+	background-color: indianred;
+    border: solid 3px;
+	color: black;
+	width: 70px;
+	height:30px;
+	position: absolute;
+	bottom:115px;
+	left:253px;
+}
+
+
+.menu3 {
+	border: solid 4px;
+	background-color: gray;
+	color: black;
+	width: 330px ;
+	height:150px;
+	padding-top: 20px;
+	position: relative;
+	margin: 40px 30px 20px 50px;
+
+
+}
+
+.titull3 {
+
+border: solid 3px;
+font-size: 130%;
+	background-color: lightyellow;
+	color: black;
+	width: 70px;
+	height:30px;
+	position: absolute;
+	bottom:115px;
+	left:253px;
+}
+
+.chicken1 {
+	padding: 2px 2px 0px 0px;
+	margin: auto auto auto 0px;
+}
+
+.beef1 {
+
+	padding: 0px 2px 4px 3px;
+}
+
+.sushi1 {
+	padding: 0px 2px 4px 3px;
+	margin: auto auto auto 0px;
+}
+
+h1 {
+
+margin-top: 30px;
+	text-align: center;
+}
+
+.chicken {
+	width: 22%;
+	margin:5px auto 5px auto;
+float: right;
+position:relative;
+top: 30px;
+
+
+}
+
+.meat {
+width: 23%;
+margin:5px auto 5px auto;
+float: right;
+position:relative;
+top: 15px;
+}
+
+.sushi {
+width: 22%;
+margin:5px auto 5px auto;
+float: right;
+position:relative;
+top: 25px;
+}
+
